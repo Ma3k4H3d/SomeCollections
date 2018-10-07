@@ -10,13 +10,13 @@
 本文就来讲解如何提权并判断哪些低权限的shell可以提升到高级权限。
 
 **目录**
-介绍 
-提权向量 
-windows-Exploit-Suggester 
-Windows Gather Applied Patches 
-sherlock 
-JAWS—另一种Windows遍历脚本 
-PowerUp 
+介绍  
+提权向量  
+windows-Exploit-Suggester  
+Windows Gather Applied Patches  
+sherlock  
+JAWS—另一种Windows遍历脚本  
+PowerUp  
 
 **介绍**
 提权一般是在攻击者已经成功入侵受害者的主机后的一个过程，在这个过程中，攻击者要尝试收集关于系统的更多关键信息，比如隐藏的密码和某些配置不当的服务与应用等。所有这些信息都会帮助攻击者对受害主机进行后渗透以便拿到高权限的shell。
